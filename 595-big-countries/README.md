@@ -20,7 +20,7 @@ Each row of this table gives information about the name of a country, the contin
 
 <ul>
 	<li>it has an area of at least&nbsp;three million (i.e., <code>3000000 km<sup>2</sup></code>), or</li>
-	<li>it has a population of at least&nbsp;twenty-five million (i.e., <code>25000000</code>).</li>
+	<li>it has a population of at leastt&nbsp;twenty-five million (i.e., <code>25000000</code>).</li>
 </ul>
 
 <p>Write a solution to find the name, population, and area of the <strong>big countries</strong>.</p>
