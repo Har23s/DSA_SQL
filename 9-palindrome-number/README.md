@@ -14,7 +14,7 @@
 <pre>
 <strong>Input:</strong> x = -121
 <strong>Output:</strong> false
-<strong>Explanation:</strong> From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+<strong>Explanation:</strong> From left to right it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
